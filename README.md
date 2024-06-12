@@ -37,4 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 📁 Anexos
 
-![Texto alternativo]()
+![Imagen uno](https://github.com/andresgeecee/nextjs-server-actions/blob/master/src/img/InsertarProducto-Precio.png?raw=true)
+
+![Imagen dos](https://github.com/andresgeecee/nextjs-server-actions/blob/master/src/img/NuevoProducto-Precio.png?raw=true)
